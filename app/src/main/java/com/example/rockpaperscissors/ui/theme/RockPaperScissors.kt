@@ -1,4 +1,4 @@
-package com.example.rockpaperscissors
+package com.example.rockpaperscissors.ui.theme
 
 fun main(){
 
