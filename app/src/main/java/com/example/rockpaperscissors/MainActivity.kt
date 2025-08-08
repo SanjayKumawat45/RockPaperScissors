@@ -28,6 +28,26 @@ fun main(){
             readln()
         }
     }
+    else if (playerChoice == "Rock"){
+        if(computerChoice == "Paper"){
+            println("Computer won the game")
+            readln()
+        }
+        else {
+            println("You won the game")
+            readln()
+        }
+    }
+    else {
+        if(computerChoice == "Scissors"){
+            println("Computer won the game")
+            readln()
+        }
+        else {
+            println("You won the game")
+            readln()
+        }
+    }
 
 
 
